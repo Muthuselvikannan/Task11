@@ -1,0 +1,54 @@
+.container .card{
+    display: inline-block;
+
+  }
+  .card-header{
+    background-color: grey;
+    color: white;
+    
+  }
+  body{
+    background-color: white;
+  }
+  h1{
+    color: white;
+  }
+  img{
+    height: 150px;
+    width: 250px;
+    margin: 10px;
+    padding: 10px;
+    justify-content: center;
+  }
+  .card{
+    text-align: center;
+    color: grey;
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+    margin: 10px;
+    padding: 10px;
+    
+  }
+  .card-text{
+    background-color:grey;
+    border: 10px solid;
+  }
+  .list-group{
+    color: white;
+    
+  }
+  .btn{
+    background-color: red;
+    border: 1px solid white;
+    border-radius: 20px;
+    font-size: 10px;
+  }
+ 
+  #title{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+    font-weight: bolder;
+    text-decoration: underline;
+  }
