@@ -1,9 +1,11 @@
 .container .card{
     display: inline-block;
+    background-color: grey;
+    border-color: black;
 
   }
   .card-header{
-    background-color: grey;
+    background-color: black;
     color: white;
     
   }
@@ -31,14 +33,14 @@
   }
   .card-text{
     background-color:grey;
-    border: 10px solid;
+    
   }
   .list-group{
-    color: white;
+    color: black;
     
   }
   .btn{
-    background-color: red;
+    background-color: grey;
     border: 1px solid white;
     border-radius: 20px;
     font-size: 10px;
